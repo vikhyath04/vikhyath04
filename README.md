@@ -4,10 +4,6 @@
 I’m a Aspiring Full Stack Developer with a passion for building efficient, scalable, and user-friendly web applications. I love working on both the front-end and back-end, creating seamless experiences and solving complex problems.<br> Feel free to reach out if you'd like to collaborate or discuss ideas!
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikhyath04&label=Profile%20views&color=0e75b6&style=flat" alt="bhavishassai" /> </p>
-<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikhyathhegde4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikhyathhegde19@gmail.com) 
 

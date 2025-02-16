@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 I’m a Aspiring Full Stack Developer with a passion for building efficient, scalable, and user-friendly web applications. I love working on both the front-end and back-end, creating seamless experiences and solving complex problems.<br> Feel free to reach out if you'd like to collaborate or discuss ideas!
 <br>
-
+<br>
 <b> Connect with me :</b>
 <p align="start">
   <a href="mailto:vikhyathhegde19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
